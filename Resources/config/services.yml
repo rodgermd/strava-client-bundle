@@ -1,0 +1,4 @@
+services:
+  site.strava.api:
+    class: Endurance\Strava\StravaClient
+    arguments: [@buzz]
