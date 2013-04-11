@@ -1,4 +1,4 @@
 services:
-  site.strava.api:
+  rodgermd.strava.api:
     class: Endurance\Strava\StravaClient
     arguments: [@buzz]
