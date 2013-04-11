@@ -1,0 +1,25 @@
+{
+  "name"       :"rodgermd/strava-client-bundle",
+  "description":"Strava API intergration",
+  "homepage"   :"https://github.com/rodgermd/CompassBundle",
+  "type"       :"symfony-bundle",
+  "keywords"   :["strava"],
+  "license"    :"MIT",
+  "authors"    :[
+    {
+      "name" :"Alexander Murashov",
+      "email":"rodger@ladela.com"
+    }
+  ],
+  "require"    :{
+    "symfony/symfony"      :"*",
+    "rodgermd/strava-client" : "*",
+  },
+  "autoload"   :{
+    "psr-0":{
+      "Rodgermd\\StravaClientBundle":""
+    }
+  },
+  "target-dir" :"Rodgermd/StravaClientBundle"
+}
+
