@@ -13,7 +13,7 @@
   ],
   "require"    :{
     "symfony/symfony"      :"*",
-    "rodgermd/strava-client" : "*",
+    "rodgermd/strava-client" : "*"
   },
   "autoload"   :{
     "psr-0":{
