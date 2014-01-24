@@ -1,6 +1,6 @@
 {
   "name"       : "rodgermd/strava-client-bundle",
-  "description": "Strava API intergration",
+  "description": "Strava API v2 intergration",
   "homepage"   : "https://github.com/rodgermd/CompassBundle",
   "type"       : "symfony-bundle",
   "keywords"   : ["strava"],
